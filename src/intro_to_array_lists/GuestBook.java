@@ -10,3 +10,4 @@ public class GuestBook {
 	// Guest #3: Greg Ganders
 	// Guest #4: Donny Doners
 }
+	GUI();compost 
